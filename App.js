@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app! cập nhật app js </Text>
+      <Text> bổ xung cho nhánh develop 2 333</Text>
       <StatusBar style="auto" />
     </View>
   );
